@@ -25,15 +25,8 @@
 
 # Video
 <h1 align="center">
-  <p float="left">
-<video width="400" controls>
-<source src="paint.mp4" type alt="Paint Program" width="300" />
-  
+  <p float="left">  
 https://user-images.githubusercontent.com/59585693/118322753-a4233c00-b4cd-11eb-845f-a5662a1f6b0e.mp4
-
-
-Your browser does not support the video tag.
-</video>
 </p>
 </h1>
 
