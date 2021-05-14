@@ -25,12 +25,12 @@
 
 # Video
 <h1 align="center">
-  <p float="left">  
-<video>
-https://user-images.githubusercontent.com/59585693/118322904-d896f800-b4cd-11eb-9e12-3c1ad65b2d24.mp4
-    </video>
+  <p float="left">
+<video width="400" controls>
+<source src="paint.mp4" type alt="Paint Program" width="300" />
+https://user-images.githubusercontent.com/59585693/118322999-fbc1a780-b4cd-11eb-88b6-f421d6724483.mp4
 
-
+</video>
 </p>
 </h1>
 
