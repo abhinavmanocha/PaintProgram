@@ -10,9 +10,11 @@
 
 <p align="center">
   •
-  <a href="#overview1">Overview</a>
+  <a href="#Overview">Overview</a>
   •
-  <a href="#video">Video</a>
+  <a href="#Video">Video</a>
+  •
+  <a href="#Installation">Installation</a>
   •
 </p>
 
