@@ -26,10 +26,10 @@
 # Video
 <h1 align="center">
   <p float="left">
-<video width="400" controls>
-<source src="PaintAppTutorial.mp4" type alt="Paint Program" width="300" />
-Your browser does not support the video tag.
-</video>
+
+https://user-images.githubusercontent.com/59585693/118372867-a2b34b80-b581-11eb-97b8-0c644bcae4a4.mp4
+
+
 </p>
 </h1>
 
