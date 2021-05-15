@@ -27,7 +27,7 @@
 <h1 align="center">
   <p float="left">
 <video width="400" controls>
-<source src="paint.mp4" type alt="Paint Program" width="300" />
+<source src="PaintAppTutorial.mp4" type alt="Paint Program" width="300" />
 Your browser does not support the video tag.
 </video>
 </p>
